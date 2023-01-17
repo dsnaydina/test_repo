@@ -1,3 +1,3 @@
 const x = 2;
-const y = 1;
+const y = 9;
 console.log (x + y);
