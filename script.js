@@ -1,3 +1,3 @@
 const x = 2;
-const y = 9;
-console.log (x + y);
+const y = 7;
+console.log (x + н);
