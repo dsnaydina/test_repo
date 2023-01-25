@@ -2,4 +2,3 @@ here we describe how we work with this file
 
 #new things to commit branch 4
 cheking git ammend
-cheking git ammend 2 
